@@ -1,0 +1,32 @@
+{
+  "name": "hsi",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/analytics-node": "^3.1.7",
+    "analytics-node": "^6.0.0",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-cookie": "^4.1.1",
+    "react-dom": "17.0.2",
+    "react-feather": "^2.0.9",
+    "react-hot-toast": "^2.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.0",
+    "@types/react": "17.0.37",
+    "autoprefixer": "^10.4.2",
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7",
+    "postcss": "^8.4.7",
+    "tailwindcss": "^3.0.23",
+    "typescript": "4.5.4"
+  }
+}

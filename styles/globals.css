@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mapboxgl-popup-close-button {
+  color: #123456;
+  padding: 10px;
+  font-size: 20pt;
+}
+
+.mapboxgl-popup-content {
+  border-radius: 10px !important;
+  padding: 4px;
+  min-width: 275px;
+}
